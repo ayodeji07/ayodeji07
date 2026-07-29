@@ -73,6 +73,8 @@ Production-grade pipeline that extracts structured clinical knowledge from unstr
 
 Full clinical research pipeline combining R survival analysis (Kaplan-Meier, Cox PH) and Python ML (XGBoost, LightGBM) for patient mortality prediction on the Worcester Heart Attack Study (WHAS500), with SHAP explainability at both global and per-patient level.
 
+[![Report](https://img.shields.io/badge/Research%20Report-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/ayodeji07/patient_survival_prediction/blob/master/report.pdf)
+
 ---
 
 ### 🗺️ [Nigeria Disease Surveillance Dashboard](https://github.com/ayodeji07/nigeria-disease-surveillance)
