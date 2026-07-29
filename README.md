@@ -89,8 +89,8 @@ End-to-end platform tracking 5 diseases across 37 states (2015–present). ETL p
 
 ## 🌱 Currently building
 
-- Deepening expertise in **clinical NLP** — from entity extraction to diagnosis coding at scale
-- Exploring **multimodal models** combining medical imaging and clinical text
+- Building expertise at the intersection of **human anatomy, computer vision, and AI-assisted medical imaging**
+- Exploring **robotics and multimodal models** that combine anatomical knowledge with visual intelligence
 - M.Sc. Public Health dissertation *(LAUTECH, 2026)*
 
 ---
