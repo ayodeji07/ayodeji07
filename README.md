@@ -54,12 +54,17 @@ I'm a human anatomist turned data scientist — which means I don't just work wi
 
 Multi-label classification of 10 chest pathologies using DenseNet121 (CheXNet architecture) trained on NIH ChestX-ray14. Includes Grad-CAM heatmaps showing which image regions drive each prediction, and a live Streamlit demo.
 
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://chest-xray-classifier-app.streamlit.app)
+[![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/ayodeji21/chest-xray-classifier)
+
 ---
 
 ### 🧬 [Clinical NLP Pipeline](https://github.com/ayodeji07/clinical-nlp-pipeline)
 `NLP` `NER` `BERT` `Clinical Text Mining`
 
 Production-grade pipeline that extracts structured clinical knowledge from unstructured medical notes — diagnoses, medications, procedures, symptoms, and anatomical terms — using scispaCy and fine-tuned biomedical BERT, with automatic ICD-10-CM code mapping.
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://clinical-nlp-pipeline.streamlit.app)
 
 ---
 
@@ -83,8 +88,8 @@ End-to-end platform tracking 5 diseases across 37 states (2015–present). ETL p
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayodeji07&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayodeji07&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayodeji07&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayodeji07&layout=compact&hide_border=true&langs_count=6" height="150" />
 </p>
 
 ---
