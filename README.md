@@ -87,12 +87,11 @@ End-to-end platform tracking 5 diseases across 37 states (2015–present). ETL p
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently building
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayodeji07&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayodeji07&layout=compact&hide_border=true&langs_count=6" height="150" />
-</p>
+- Deepening expertise in **clinical NLP** — from entity extraction to diagnosis coding at scale
+- Exploring **multimodal models** combining medical imaging and clinical text
+- M.Sc. Public Health dissertation *(LAUTECH, 2026)*
 
 ---
 
